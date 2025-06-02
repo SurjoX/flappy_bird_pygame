@@ -58,4 +58,4 @@ Make sure the following image files are present in the same directory as main.py
 Feel free to use or modify this project for educational purposes. If you build on it or release your own version, credit is appreciated! 💛
 
 👤 Author
-SurjoX — GitHub
+SurjoX — https://github.com/SurjoX
