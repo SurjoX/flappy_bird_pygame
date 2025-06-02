@@ -27,6 +27,7 @@ Assets: Custom bird, pipe, background, and UI images (e.g. bird_mid.png, pipe_to
 
 
 🎮 Controls
+
 SPACE: Flap the bird / Start the game
 
 R: Restart the game after a game over
