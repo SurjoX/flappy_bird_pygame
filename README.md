@@ -4,10 +4,15 @@ A fully functional Flappy Bird clone created using Python and the Pygame library
 
 🛠 Features
 ✨ Animated bird with smooth wing flapping
+
 🌆 Scrolling background and ground
+
 🚧 Randomly generated top and bottom pipes with collision detection
+
 🧠 Score tracking when pipes are passed
+
 🎮 Start and Game Over screens
+
 🔁 Restart the game with a single key press
 
 
