@@ -36,7 +36,7 @@ X (top corner): Close the game window
 
 
 🖼️ Assets Used: 
-Make sure the following image files are present in the same directory as main.py:
+Make sure the following image files are present in the same directory as flappy_bird.py:
 
 1. bird_down.png
 2. bird_mid.png
