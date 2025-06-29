@@ -1,4 +1,5 @@
 🐦 Flappy Bird Clone using Python & Pygame
+
 A fully functional Flappy Bird clone created using Python and the Pygame library. This version includes a moving background, animated bird sprites, gravity physics, pipe generation, score tracking, and a start + game-over screen.
 
 
