@@ -20,20 +20,20 @@ A fully functional Flappy Bird clone created using Python and the Pygame library
 
 ## 🧑‍💻 Tech Stack:
 
-Language: Python 3
+- Language: Python 3
 
-Library: Pygame
+- Library: Pygame
 
-Assets: Custom bird, pipe, background, and UI images (e.g. bird_mid.png, pipe_top.png, start.png)
+- Assets: Custom bird, pipe, background, and UI images (e.g. bird_mid.png, pipe_top.png, start.png)
 
 
 ## 🎮 Controls
 
-SPACE: Flap the bird / Start the game
+- SPACE: Flap the bird / Start the game
 
-R: Restart the game after a game over
+- R: Restart the game after a game over
 
-X (top corner): Close the game window
+- X (top corner): Close the game window
 
 
 ## 🖼️ Assets Used: 
